@@ -1,0 +1,2 @@
+ridge-detector>=0.1.2
+
